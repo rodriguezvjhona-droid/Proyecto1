@@ -64,18 +64,22 @@ All students are stored in a list:
 
 students = []
 💡 Usage Examples
+
 ➤ Add a student
 Enter ID: 101
 Enter name: John Doe
 Enter age: 20
 Enter course: Software Development
 Enter status (True/False): True
+
 ➤ Search a student
 Enter student ID: 101
 Student found: John Doe
+
 ➤ Update a student
 Enter student ID to update: 101
 Update name: John Smith
+
 ➤ Delete a student
 Enter student ID to delete: 101
 Student deleted successfully
