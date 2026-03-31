@@ -1,4 +1,5 @@
 📚 Student Management System (Python)
+
 📌 Description
 
 This project is a Student Management System developed in Python.
@@ -19,11 +20,14 @@ Tuples
 Console-based interactive menu
 Modular design using functions
 Basic error handling
+
 ⭐ Optional (Bonus)
 Data persistence using .json, .csv, or .txt files
 Load data when the program starts
 Save data between executions
+
 🛠️ Requirements
+
 Python 3.x installed
 ▶️ How to Run the Program
 Download or clone the repository
@@ -31,6 +35,7 @@ Open a terminal or command prompt
 Navigate to the project folder
 Run the program with:
 python main.py
+
 📋 Menu Example
 
 When you run the program, you will see a menu like this:
@@ -42,6 +47,7 @@ When you run the program, you will see a menu like this:
 4. Update Student
 5. Delete Student
 6. Exit
+   
 🧩 Data Structure Example
 
 Each student is stored as a dictionary:
@@ -90,6 +96,7 @@ project/
 │── data.json (optional)
 │── README.md
 🧠 Concepts Used
+
 Variables and data types (int, str, bool)
 Conditional statements (if, elif, else)
 Loops (for)
@@ -99,7 +106,9 @@ Lists
 Dictionaries
 Tuples
 Exception handling (try-except)
+
 ✅ Acceptance Criteria
+
 The system runs correctly from the console
 All CRUD operations work without errors
 The program handles errors properly
