@@ -114,6 +114,7 @@ All CRUD operations work without errors
 The program handles errors properly
 Code is clean and well documented
 The menu is clear and user-friendly
+
 📎 Notes
 Avoid using unnecessary while True loops
 Keep code modular and organized
